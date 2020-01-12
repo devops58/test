@@ -1,0 +1,34 @@
+﻿{
+  "data": [
+    {
+      "name": "Gökhan Türkmen",
+      "tckn": "123456",
+      "phone": "0532",
+      "birthplace": "Kayseri",
+      "sıraNo": "11",
+      "named": [
+        "Selim Yıldız",
+        "Orhan Isık"
+      ],
+      "tcknd": [
+        "12312533",
+        "42342432"
+      ],
+      "phoned": [
+        "543",
+        "555"
+      ],
+      "birthplaced": [
+        "İzmir",
+        "Sivas"
+      ]
+    },
+    {
+      "name": "Fatma Turunç",
+      "tckn": "654321",
+      "phone": "0533",
+      "birthplace": "Istabul",
+       "sıraNo": "11"
+    }
+  ]
+}
